@@ -3,7 +3,7 @@ title: "example"
 description: "An example site for the PM 566 class at USC"
 ---
 
-This is a Quarto website.
+This is an *updated* Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
