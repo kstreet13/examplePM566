@@ -1,5 +1,6 @@
 ---
 title: "example"
+description: "An example site for the PM 566 class at USC"
 ---
 
 This is a Quarto website.
